@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
 
 ## ⚡ Fun fact: ...
-- Before I studied computer science and AI, I was convinced I'd be an artist or an architect. You never know where your life takes you :)
+Before I studied computer science and AI, I was convinced I'd be an artist or an architect. You never know where your life takes you :)
