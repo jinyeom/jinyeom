@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Applying deep learning on sports at **[Hudl](https://www.hudl.com/)** since 2019
+- Applying deep learning on sports at **[Hudl](https://www.hudl.com/)**
 - Making relatively small neural networks useful (personal projects)
 - An NES emulator, when I'm tired of neural networks
 
