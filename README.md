@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to Jin's GitHub 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jinyeom95/)](https://twitter.com/utilforever/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jin-yeom-510157125/)](https://www.linkedin.com/in/jin-yeom-510157125/)
+
 
 <!--
 **jinyeom/jinyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 I’m currently working on ...
+- Applying deep learning on sports at **[Hudl](https://www.hudl.com/)** since 2019
+- Making relatively small neural networks useful (personal projects)
+- An NES emulator, when I'm tired of neural networks
+
+## 🌱 I’m currently learning ...
+- **Computer vision (object detection, MOT, ReID, etc.)**
+- Reinforcement learning
+- Neuroevolution
+- NN model deployment (ONNX, TensorRT, DeepStream, etc.)
+
+## ⚡ Fun fact: ...
+- Before I studied computer science and AI, I was convinced I'd be an artist or an architect. You never know where your life takes you :)
