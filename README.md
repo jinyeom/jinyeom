@@ -21,14 +21,15 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - Applying deep learning on sports at **[Hudl](https://www.hudl.com/)**
-- Making relatively small neural networks useful (personal projects)
-- An NES emulator, when I'm tired of neural networks
+- Building useful applications for computer vision
+- Evolving tiny neural networks to do useless things
 
 ## 🌱 I’m currently learning ...
 - **Computer vision (object detection, MOT, ReID, etc.)**
 - Reinforcement learning
 - Neuroevolution
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
+- NES emulation, when I need a break from NN 😛
 
 ## ⚡ Fun fact: ...
 Before I studied computer science and AI, I was convinced I'd be an artist or an architect. You never know where your life takes you :)
