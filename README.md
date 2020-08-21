@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - Applying deep learning on sports at **[Hudl](https://www.hudl.com/)**
-- Building useful applications for computer vision
-- Evolving tiny neural networks to do useless things
+- Building tiny neural networks to do useful things
+- Building tinier neural networks to do useless things
 
 ## 🌱 I’m currently learning ...
 - **Computer vision (object detection, MOT, ReID, etc.)**
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - NES emulation, when I need a break from NN 😛
 
 ## ⚡ Fun fact: ...
-Before I studied computer science and AI, I was convinced I'd be an artist or an architect. You never know where your life takes you :)
+Before I decided to study computer science and AI, I was convinced I'd be an artist. You never know where your life takes you :)
