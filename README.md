@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 - **Computer vision (object detection, MOT, ReID, etc.)**
-- Neuroevolution
-- Reinforcement learning (not so much these days...)
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
 - NES emulation, when I need a break from NN 😛
+- Neuroevolution
+- Reinforcement learning (not so much these days...)
 
 ## ⚡ Fun fact: ...
 Before I decided to study computer science and AI, I was convinced I'd be an artist. You never know where your life takes you :)
