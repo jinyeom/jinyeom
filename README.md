@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - Reinforcement learning (not so much these days...)
 
 ## ⚡ Fun fact: ...
-Before I decided to study computer science and AI, I was convinced I'd be an artist. You never know where your life takes you :)
+Before I decided to study computer science and AI, I had been convinced that I'd be an artist. You never know where your life takes you :)
