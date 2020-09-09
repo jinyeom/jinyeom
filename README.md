@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Building tinier neural networks to do useless things
 
 ## 🌱 I’m currently learning ...
-- **Computer vision (object detection, MOT, ReID, etc.)**
+- **Computer vision (object detection, MOT, etc.)**
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
 - NES emulation, when I need a break from NN 😛
 - Neuroevolution
