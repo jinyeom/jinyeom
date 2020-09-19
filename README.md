@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **Computer vision (object detection, MOT, etc.)**
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
 - NES emulation, when I need a break from NN 😛
-- ~Neuroevolution~
+- Neuroevolution
 - ~Reinforcement learning~
 
 ## ⚡ Fun fact: ...
