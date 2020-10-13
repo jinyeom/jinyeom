@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Applying deep learning on sports at **[Hudl](https://www.hudl.com/)**
-- Looking for other useful things to do with computer vision 👀
+- Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
+- Building small neural networks to do useful things
+- Building smaller neural networks to do useless things
 
 ## 🌱 I’m currently learning ...
 - **Computer vision (object detection, MOT, etc.)**
