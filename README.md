@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 - **Computer vision (object detection, MOT, etc.)**
-- **Application of classical machine learning**
+- **"Good ol' fashioned" machine learning**
 - NN model deployment (ONNX, TensorRT, **DeepStream**, etc.)
 - NES emulation, whenever I need a break from NN 😛
 - Neuroevolution
