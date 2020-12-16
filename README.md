@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- Building small neural networks to do useful things
-- Building smaller neural networks to do useless things
+- Applying machine learning on League of Legends
 
 ## 🌱 I’m currently learning ...
 - Computer vision (object detection, MOT, etc.)
