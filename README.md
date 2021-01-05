@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- Applying machine learning on League of Legends
+- Data analysis on League of Legends
 
 ## 🌱 I’m currently learning ...
 - Computer vision (object detection, MOT, etc.)
