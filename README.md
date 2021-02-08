@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- Scalable machine learning
+- Scalable machine learning with AWS, Docker, Kubernetes, etc.
 
 ## 🌱 I’m currently learning ...
-- Computer vision (object detection, MOT, etc.)
 - Scalable ML engineering
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
-- NES emulation, whenever I need a break from NN 😛
 - Neuroevolution and Artificial Life
+- Computer vision (object detection, MOT, etc.)
+- NES emulation, whenever I need a break from NN 😛
 
 ## ⚡ Fun fact: ...
-Before I decided to study computer science and AI, I had been convinced that I'd be an artist. You never know where your life takes you :)
+I evolve small neural networks for fun
