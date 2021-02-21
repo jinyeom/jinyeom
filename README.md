@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- Scalable machine learning with AWS, Docker, Kubernetes, etc.
+- [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
+- [Personal] Arisu: DeepStream-based video processing pipeline
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
+- Web programming with Javascript
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
-- Neuroevolution and Artificial Life
 - Computer vision (object detection, MOT, etc.)
-- NES emulation, whenever I need a break from NN 😛
+- Neuroevolution and Artificial Life
 
-## ⚡ Fun fact: ...
-I evolve small neural networks for fun
+<!-- ## ⚡ Fun fact: ... -->
