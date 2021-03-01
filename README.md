@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] [Arisu](https://github.com/jinyeom/arisu): GStreamer-based Computer Vision Pipeline
+- [Personal] **[Arisu](https://github.com/jinyeom/arisu)**: GStreamer-based Computer Vision Pipeline
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
