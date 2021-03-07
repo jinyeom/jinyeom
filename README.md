@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Arisu: homebrew computer vision system for everyday activities
+- [Personal] 아리수: Towards Real-Time Vision-based Human-Computer Interaction
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
