@@ -7,9 +7,6 @@
 <!--
 [![Jin's github stats](https://github-readme-stats.vercel.app/api?username=jinyeom)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jinyeom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **jinyeom/jinyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
