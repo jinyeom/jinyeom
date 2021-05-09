@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] 아리수: Neural Networks based Video Processing Module
+- [Personal] Mu+Epsilon: Towards a World Full of Interesting Agents
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
