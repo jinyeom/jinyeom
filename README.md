@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Exploring interesting agents at **[Divergent](https://github.com/divergent-ai)**
+- [Personal] Building a world full of interesting agents at **[Divergent](https://github.com/divergent-ai)**
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
