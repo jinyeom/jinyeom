@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
-- Web programming with Go
+- Web application programming in Go
+- Rust programming language
 - NN model deployment (ONNX, TensorRT, DeepStream, etc.)
-- Computer vision (object detection, MOT, etc.)
-- Neuroevolution and Artificial Life
 
 <!-- ## ⚡ Fun fact: ... -->
