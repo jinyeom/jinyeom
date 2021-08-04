@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Energy-efficient computing
+- [Personal] Low-power computing
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
