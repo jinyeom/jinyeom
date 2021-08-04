@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Building a world full of interesting agents at **[Divergent](https://github.com/divergent-lab)**
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
 - Web application programming in Go
 - Rust programming language
-- NN model deployment (ONNX, TensorRT, DeepStream, etc.)
+- Neural network deployment (ONNX, TensorRT, DeepStream, etc.)
 
 <!-- ## ⚡ Fun fact: ... -->
