@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Building personalized virtual worlds at **[Divergent](https://github.com/divergent-lab)**
 - [Personal] Low-power data-driven computing
 
 ## 🌱 I’m currently learning ...
