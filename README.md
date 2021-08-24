@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+If you're wondering what I'm currently working on, feel free to have a look at the pinned repositories!
+
 ## 🔭 I’m currently working on ...
 - [General] Becoming a better first principle engineer by constantly asking _why_
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
