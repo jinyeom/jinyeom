@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
+- [General] Becoming a better first principle engineer by constantly asking _why_
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Power-efficient data-driven programs
+- [Personal] Large-scale + Energy-efficient data-intensive tools for AI
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
-- Web application programming in Go
 - Rust programming language
-- Neural network deployment (ONNX, TensorRT, DeepStream, etc.)
+- Web applications in Go
+- Efficient neural network deployment
 
 <!-- ## ⚡ Fun fact: ... -->
