@@ -26,7 +26,7 @@ If you're wondering what I'm currently working on, feel free to have a look at t
 ## 🔭 I’m currently working on ...
 - [General] first principles engineering
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Large-scale + Energy-efficient data-intensive tools for AI
+- [Personal] Large-scale + energy-efficient data-intensive tools for AI
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
