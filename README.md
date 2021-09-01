@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 If you're wondering what I'm currently working on, feel free to have a look at the pinned repositories!
 
 ## 🔭 I’m currently working on ...
-- [General] first-principle engineering
+- [General] first principles engineering
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
 - [Personal] Large-scale + Energy-efficient data-intensive tools for AI
 
