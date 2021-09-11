@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- [General] first principles engineering
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Large-scale + energy-efficient data-intensive tools for AI
+- [Personal] Data-intensive applications
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
