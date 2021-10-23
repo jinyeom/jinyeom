@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Building virtual worlds at **[Divergent](https://github.com/divergent-lab)**
+- [Personal] Building virtual worlds
+- [Personal] Building various databases/DBMSs
 
 ## 🌱 I’m currently learning ...
 - Scalable ML engineering
