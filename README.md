@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 - [Personal] Building various databases/DBMSs
 
 ## 🌱 I’m currently learning ...
-- Scalable ML engineering
-- Rust programming language
-- Web applications in Go
-- Efficient neural network deployment
+You can track what I'm currently learning on [this Project page](https://github.com/users/jinyeom/projects/3).
 
 <!-- ## ⚡ Fun fact: ... -->
