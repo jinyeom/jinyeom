@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
 - [Personal] Building virtual worlds
-- [Personal] Building various databases/DBMSs
+- [Personal] Building database management systems
 
 ## 🌱 I’m currently learning ...
 You can track what I'm currently learning on [this Project page](https://github.com/users/jinyeom/projects/3).
