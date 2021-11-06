@@ -28,7 +28,6 @@ Hello and welcome! I work somewhere between data science and software engineerin
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
 - [Personal] Building virtual worlds
-- [Personal] Building database management systems
 
 ## 🌱 I’m currently learning ...
 You can track what I'm currently learning on [this Project page](https://github.com/users/jinyeom/projects/3).
