@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello and welcome! I work somewhere between data science and software engineering. Nowadays, I'm leaning more towards software engineering _for_ data science.
+
+안녕하세요, 그리고 환영합니다! 자료과학과 소프트웨어 개발 사이 어딘가에서 일 하고 있습니다. 요즘은 자료과학을 _위한_ 소프트웨어 개발에 관심을 두고 있습니다.
+
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
 - [Personal] Building virtual worlds
