@@ -30,6 +30,9 @@ Hello and welcome! I work somewhere between data science and software engineerin
 - [Personal] Building text-based virtual worlds
 
 ## 🌱 I’m currently learning ...
-You can track what I'm currently learning on [this Project page](https://github.com/users/jinyeom/projects/3).
+- Natural language processing
+- C++ programming language
+- Chess and AlphaZero
+<!-- You can track what I'm currently learning on [this Project page](https://github.com/users/jinyeom/projects/3). -->
 
 <!-- ## ⚡ Fun fact: ... -->
