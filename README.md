@@ -32,8 +32,7 @@ Hello and welcome! I work somewhere between data science and software engineerin
 
 ## 🌱 I’m currently learning ...
 - Natural language processing
-- C++ programming language
-- Chess and AlphaZero
+- High-performance Python
 <!-- You can track what I'm currently learning on [this Project page](https://github.com/users/jinyeom/projects/3). -->
 
 <!-- ## ⚡ Fun fact: ... -->
