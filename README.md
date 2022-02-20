@@ -27,8 +27,7 @@ Hello and welcome! I work somewhere between data science and software engineerin
 
 ## 🔭 I’m currently working on ...
 - [Professional] Applying machine learning on sports at **[Hudl](https://www.hudl.com/)**
-- [Personal] Building a bot that keeps me up to date with arXiv (Python)
-- [Personal] Building a generative text-based virtual world (C#)
+- [Personal] Building a text-based virtual world (Go)
 
 ## 🌱 I’m currently learning ...
 - Natural language processing
