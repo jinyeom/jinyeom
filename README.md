@@ -31,7 +31,9 @@ Hello and welcome! I work somewhere between data science and software engineerin
 
 ## 🌱 I’m currently learning ...
 - Natural language processing
-- High-performance Python
+- Cloud Native Go
+- Databases
+- Rust
 <!-- You can track what I'm currently learning on [this Project page](https://github.com/users/jinyeom/projects/3). -->
 
 <!-- ## ⚡ Fun fact: ... -->
