@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
+- [Personal] Building a property graph database at **[Kirin AI](https://github.com/kirin-ai)** 
 - [Personal] Building a text-based virtual world at **[Diverse AI](https://github.com/diverse-ai)**
 
 ## 🌱 I’m currently learning ...
-- Natural language processing
-- Cloud Native Go
+- [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
 - Databases
-- Rust programming language
+- Natural language processing
