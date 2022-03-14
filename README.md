@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- [Personal] Building a property graph database at **[Kirin AI](https://github.com/kirin-ai)** 
+- [Personal] Building a property graph database called **kirin**
 - [Personal] Building a text-based virtual world at **[Diverse AI](https://github.com/diverse-ai)**
 
 ## 🌱 I’m currently learning ...
