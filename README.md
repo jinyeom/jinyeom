@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Personal] Learning Cloud Native by building a distributed key-value store in Go
+- [Personal] Crafting Interpreters (glox/rlox)
 - [Personal] Building a text-based virtual world at **[Diverse AI](https://github.com/diverse-ai)**
 
 ## 🌱 I’m currently learning ...
