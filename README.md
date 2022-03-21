@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- [Personal] Building a property graph database called **kirin**
+- [Personal] Learning Cloud Native by building a distributed key-value store in Go
 - [Personal] Building a text-based virtual world at **[Diverse AI](https://github.com/diverse-ai)**
 
 ## 🌱 I’m currently learning ...
