@@ -1,6 +1,6 @@
 ### Welcome to Jin's GitHub 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_jinyeom_/)](https://twitter.com/_jinyeom_/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_jinyeom/)](https://twitter.com/_jinyeom/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinseok-yeom-510157125/)](https://www.linkedin.com/in/jinseok-yeom-510157125/)
 
 <!--
