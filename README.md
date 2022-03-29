@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- [Personal] Learning Cloud Native by building a distributed key-value store in Go
-- [Personal] Crafting Interpreters (glox/rlox)
-- [Personal] Building a text-based virtual world at **[Diverse AI](https://github.com/diverse-ai)**
+- [Personal] Toy distributed key-value store in Go (cnkv)
+- [Personal] Lox interpreter in Go (glox)
+- [Personal] Text-based virtual worlds (TonicMUD)
+- [Personal] Tiny "distributed" graph processing engine (micrograph)
 
 ## 🌱 I’m currently learning ...
 - [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
-- Databases
+- Distributed algorithms
 - Natural language processing
