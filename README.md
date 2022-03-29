@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 - [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
-- Distributed algorithms
-- Natural language processing
+- [Distributed algorithms](https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484)
+- [Natural language processing](https://www.coursera.org/specializations/natural-language-processing)
