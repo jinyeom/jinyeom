@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - [Personal] Toy distributed key-value store in Go (cnkv)
+- [Personal] Lightweight persistent in-memory table (table)
 - [Personal] Lox interpreter in Go (glox)
 - [Personal] Text-based virtual worlds (TonicMUD)
-- [Personal] Lightweight persistent in-memory table (table)
+
 
 ## 🌱 I’m currently learning ...
 - [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
