@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Toy distributed key-value store in Go
 - Text-based virtual world
 - Lox interpreter in Go
 
