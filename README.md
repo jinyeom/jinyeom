@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - Text-based virtual world
-- Lox interpreter in Go
+- Lox interpreter in C#
 
 ## 📚 I’m currently reading ...
 - [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
