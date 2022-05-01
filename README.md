@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ## 📚 I’m currently reading ...
 - [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
-- [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+- [C# 10 in a Nutshell](https://www.albahari.com/nutshell/)
