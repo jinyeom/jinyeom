@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Text-based virtual world
+- Text-based sandbox virtual world
 - Lox interpreter in C#
 
 ## 📚 I’m currently reading ...
-- [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [C# 10 in a Nutshell](https://www.albahari.com/nutshell/)
