@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Text-based sandbox virtual world
+- Roguelike development in C#
 - Lox interpreter in C#
 
 ## 📚 I’m currently reading ...
