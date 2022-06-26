@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Roguelike development in C#
 - Lox interpreter in C#
+- Second brain
 
 ## 📚 I’m currently reading ...
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
