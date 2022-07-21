@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Lox interpreter in C#
-- Second brain
+- Personal knowledge management system
+- Lox interpreter
 
 ## 📚 I’m currently reading ...
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
