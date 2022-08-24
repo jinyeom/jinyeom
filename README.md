@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
+- Minimal devcontainer server
 - Personal knowledge management system
 - Lox interpreter
 
+<!--
 ## 📚 I’m currently reading ...
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [C# 10 in a Nutshell](https://www.albahari.com/nutshell/)
+-->
