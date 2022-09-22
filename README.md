@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
+- Learning WebAssembly
 - Minimal devcontainer server
 - Personal knowledge management system
 - Lox interpreter
