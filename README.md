@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - **orca**: wasm module hosting service
 - **kraken**: minimal devcontainer service
 - **bluefin**: personal knowledge management service
+- **sound**: remote object storage service
 
 <!--
 ## 📚 I’m currently reading ...
