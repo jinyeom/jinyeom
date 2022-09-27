@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-**Building a personal cloud**
+**building a personal cloud**
 - **orca**: wasm module hosting service
 - **kraken**: minimal devcontainer service
 - **bluefin**: personal knowledge management service
