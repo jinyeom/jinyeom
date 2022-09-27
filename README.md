@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Learning WebAssembly
-- Minimal devcontainer server
-- Personal knowledge management system
-- Lox interpreter
+**Building a personal cloud**
+- **orca**: wasm module hosting service
+- **kraken**: minimal devcontainer service
+- **bluefin**: personal knowledge management service
 
 <!--
 ## 📚 I’m currently reading ...
