@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 **building a personal cloud**
-- **orca**: wasm platform as a service
 - **kraken**: minimal devcontainer service
 - **bluefin**: personal knowledge management service
 - **sound**: remote object storage service
