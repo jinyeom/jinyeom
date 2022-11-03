@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- **objectsound**: privacy-focused object storage tool
+- **blobsound**: privacy-focused blob storage tool
 - **bluefin**: self-hosted alternative to Twitter
 
 <!--
