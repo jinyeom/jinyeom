@@ -21,12 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on ...
-- **sound**: remote blob store server
-
-<!--
-## 📚 I’m currently reading ...
-- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-- [Crafting Interpreters](https://craftinginterpreters.com/)
-- [C# 10 in a Nutshell](https://www.albahari.com/nutshell/)
--->
